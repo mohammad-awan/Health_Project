@@ -1,0 +1,27 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Django stuff
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.mo
+db.sqlite3
+*.py[cod]
+*.sqlite3-journal
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
